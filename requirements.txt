@@ -1,0 +1,4 @@
+# base on python 3.10
+ipykernel
+pandas
+numpy
