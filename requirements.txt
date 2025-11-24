@@ -1,4 +1,4 @@
-# base on python 3.10
+# base on python 3.12
 ipykernel
 pandas
 numpy
